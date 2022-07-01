@@ -28,7 +28,7 @@ body{
 
 .first{
     width: 50%;
-    height: 80%;
+    height: 70%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -261,9 +261,7 @@ input:focus{
 @media (max-width: 500px){
 
     .wrap{
-        display: flex;
-        flex-direction: column;
-        top: 50%;
+        top: 40%;
     }
 
     .smallsecond h3{
