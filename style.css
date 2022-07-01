@@ -261,7 +261,7 @@ input:focus{
 @media (max-width: 500px){
 
     .wrap{
-        top: 40%;
+        top: 50%;
     }
 
     .smallsecond h3{
